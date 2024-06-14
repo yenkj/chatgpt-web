@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/yenkj/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'ChenZhaoYu',
+      name: '香蕉的胡言乱语AI',
       description: 'Star on <a href="https://github.com/yenkj/ChatGPT-Web" class="text-blue-500" target="_blank" >GitHub</a>',
     },
   }
